@@ -1,0 +1,3 @@
+Sprzedaż Netto:	260zł
+Suma podatku VAT ze sprzedaży:	32.20zł
+Suma sprzedaży Brutto:	292.20zł
